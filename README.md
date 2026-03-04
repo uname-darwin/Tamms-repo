@@ -1,1 +1,3 @@
-I am writing thid readme on my Arch Linux. just for practice.
+I am writing this readme on my Arch Linux. just for practice git.
+
+2nd commit on my arch for more learning.
