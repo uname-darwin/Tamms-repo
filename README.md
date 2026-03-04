@@ -1,1 +1,1 @@
-I will update later... She is waiting for this website yaaaar.
+I am writing thid readme on my Arch Linux. just for practice.
